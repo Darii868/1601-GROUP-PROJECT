@@ -1,2 +1,2 @@
 # 1601-GROUP-PROJECT
-Four member group project
+Good day sir the abilites folders belong in images but i had to separate them as they exceeded the files limited.
